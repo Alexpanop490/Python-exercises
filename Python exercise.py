@@ -2,7 +2,7 @@ import random
 
 # Ex.1
 '''จงเขียนโคดPythonโดยให้ หาว่าจำนวนที่เป็นจำนวนคู่และคี่ 
-โคยรับค่าจาก input ''' 
+โคยรับค่าจาก input แล้ว แสดงข้อความว่าเป็น จำนวนคู่หรือคี่ ''' 
 #Ex.2
 '''จงสร้างlogin ที่มี username และ Password โคยจะต้อง
 แสดง ข้อความ Enter username: และ Enter Password:
